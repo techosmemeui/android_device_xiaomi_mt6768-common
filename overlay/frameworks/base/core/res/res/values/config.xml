@@ -656,4 +656,7 @@
          screenshot chord -->
     <integer name="config_screenshotChordKeyTimeout">0</integer>
 
+    <!-- True if the device supports Sustained Performance Mode -->
+    <bool name="config_sustainedPerformanceModeSupported">true</bool>
+
 </resources>
