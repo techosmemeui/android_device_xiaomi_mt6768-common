@@ -11,9 +11,6 @@ persist.sys.sf.disable_blurs=1
 
 # Brand
 Build.BRAND=MTK
-
-# Blurs
-ro.surface_flinger.supports_background_blur=1
   
 # Camera
 persist.camera.dualcal.state=-1
