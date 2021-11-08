@@ -3,9 +3,9 @@ debug.sf.hw=1
 
 
 # PixelBlaster
-ro.pb.maintainer=Prof31@cloud
-ro.pb.soc=Helio G85
-ro.pb.camera=144mp
-ro.pb.version=3.0
-ro.pb.codename=Merlinx
-ro.pb.device= Redmi Note 9
+ro.pex.maintainer=Prof31@cloud
+ro.pex.soc=Helio G85
+ro.pex.camera=144mp
+ro.pex.version=3.3
+ro.pex.codename=Merlinx
+ro.pex.device= Redmi Note 9
