@@ -2,10 +2,10 @@
 debug.sf.hw=1
 
 
-# PixelBlaster
-ro.pex.maintainer=Prof31@cloud
-ro.pex.soc=Helio G85
-ro.pex.camera=144mp
-ro.pex.version=3.3
-ro.pex.codename=Merlinx
-ro.pex.device= Redmi Note 9
+# Nitrogen
+ro.nitrogen.maintainer=Prof31@cloud
+ro.nitrogen.soc=Helio G85
+ro.nitrogen.camera=48mp
+ro.nitrogen.version=
+ro.nitrogen.codename=Merlinx
+ro.nitrogen.device= Redmi Note 9
