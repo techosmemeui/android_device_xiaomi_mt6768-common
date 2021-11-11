@@ -3,9 +3,9 @@ debug.sf.hw=1
 
 
 # Nitrogen
-ro.nitrogen.maintainer=Prof31@cloud
-ro.nitrogen.soc=Helio G85
-ro.nitrogen.camera=48mp
-ro.nitrogen.version=
-ro.nitrogen.codename=Merlinx
-ro.nitrogen.device= Redmi Note 9
+ro.pixys.maintainer=Prof31@cloud
+ro.pixys.soc=Helio G85
+ro.pixys.camera=48mp
+ro.pixys.version=
+ro.pixys.codename=Merlinx
+ro.pixys.device= Redmi Note 9
